@@ -20,7 +20,7 @@
         "crypto": "^1.0.1",
         "fabric-contract-api": "^2.0.0",
         "fabric-shim": "^2.0.0",
-        "jsrsasign": "^8.0.24",
+        "jsrsasign": "^10.2.0",
         "node": "^15.12.0",
         "npm-check-updates": "^11.3.0"
     },
