@@ -14,7 +14,7 @@
     "express": "^4.17.1",
     "fabric-network": "^2.2.0",
     "formidable": "^1.2.2",
-    "jsrsasign": "^8.0.24",
+    "jsrsasign": "^10.2.0",
     "magnet-uri": "^5.3.0",
     "pug": "^3.0.0"
   },
